@@ -1,0 +1,1 @@
+cmd='D:/clion/CLion 2021.3.3/bin/cmake/win/bin/cmake.exe;-DSDKCONFIG=E:/U8G2/demo01/sdkconfig;-DIDF_PATH=D:/Espressif/frameworks/esp-idf-v5.1.2;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=D:/Espressif/frameworks/esp-idf-v5.1.2/components/bootloader;-DPROJECT_SOURCE_DIR=E:/U8G2/demo01;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
